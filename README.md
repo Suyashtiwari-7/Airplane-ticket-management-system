@@ -77,7 +77,7 @@ airline_ticket_reservation/
 
 **Suyash Tiwari**  
 *Python Developer | Software & Data Enthusiast*  
-[LinkedIn]((https://www.linkedin.com/in/suyashjtiwari/)) 
+
 
 
 
